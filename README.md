@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Alejandro!
 
 ## 🚀 Sobre mí
-Soy desarrollador con interés en programación, tecnología y proyectos creativos.  
+Soy desarrollador con interés en programación, tecnología y proyectos creativos con interés en frontend y backend.
 En mi tiempo libre me gusta aprender nuevas herramientas y mejorar mis habilidades.
 
 ---
